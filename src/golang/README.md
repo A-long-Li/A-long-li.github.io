@@ -1,5 +1,5 @@
 ---
-title: 简介
+title: Golang
 index: false
 icon: fa-brands fa-golang
 category:
