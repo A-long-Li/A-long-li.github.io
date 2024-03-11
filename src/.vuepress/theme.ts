@@ -49,7 +49,7 @@ export default hopeTheme({
   plugins: {
 
 
-    
+    searchPro:true,
     // // 自动生成目录
     // autoCatalog: {
     //   index: true
