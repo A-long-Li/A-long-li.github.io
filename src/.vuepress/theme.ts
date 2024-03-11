@@ -57,10 +57,10 @@ export default hopeTheme({
     // 你应该自行生成自己的评论服务
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "zarttic/discussions",
+      repoId: "R_kgDOLehzmw",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOLehzm84Cd4FC",
     },
 
     components: {
