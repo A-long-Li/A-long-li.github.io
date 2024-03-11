@@ -36,7 +36,7 @@ highlights:
       - title: Java
         icon: fa-brands fa-java
         details: Java 面试题
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        link: java/
 
 ---
 
