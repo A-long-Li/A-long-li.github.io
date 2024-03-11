@@ -29,12 +29,24 @@ export default navbar([
     prefix: "/notes/",
     children: [
       {
+        text: "已整理",
+        icon: "lightbulb",
+        prefix: "order/",
+        children: [ { text: "linux", icon: "fab fa-linux", link: "linux" } ],
+      },
+      {
         text: "未整理",
         icon: "lightbulb",
         prefix: "unorder/",
-        children: [ { text: "linux", icon: "fa-linux", link: "linux" }],
+        children: [ { text: "linux", icon: "fab fa-linux", link: "linux" }],
       },
+
     ],
+  },
+  {
+    text: "资源导航",
+    link: "/resource/",
+    icon:"fa-solid fa-window-restore",
   },
   "/home/",
 ]);
