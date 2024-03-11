@@ -50,10 +50,6 @@ export default hopeTheme({
 
 
     searchPro:true,
-    // // 自动生成目录
-    // autoCatalog: {
-    //   index: true
-    // },
     // 你应该自行生成自己的评论服务
     comment: {
       provider: "Giscus",

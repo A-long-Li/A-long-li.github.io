@@ -4,22 +4,33 @@ export default sidebar({
   "/": [
     "",
     {
+      text: "Golang",
+      icon: "fa-brands fa-golang",
+      prefix: "golang/",
+      link:"golang/",
+      children: "structure",
+    },
+    {
+      text: "Java",
+      icon: "fa-brands fa-java",
+      prefix: "java/",
+      link: "java/",
+      children: "structure",
+    },
+    {
+      text: "杂记",
+      icon: "fa-solid fa-box-archive",
+      prefix: "notes/",
+      link:"notes/",
+      children: "structure",
+    },
+    {
       text: "案例",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "home/",
+      link: "home/",
       children: "structure",
     },
-    {
-      text: "文档",
-      icon: "book",
-      prefix: "guide/",
-      children: "structure",
-    },
-    {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",
-    },
+
   ],
 });

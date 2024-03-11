@@ -2,25 +2,26 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/home/",
   {
-    text: "教程",
-    icon: "lightbulb",
-    prefix: "/guide/",
-    children: [
+    text:"Golang",
+    icon:"fa-brands fa-golang",
+    prefix:"/golang/",
+    children:[
       {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
-      },
-      {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
-      },
-    ],
+        text: "标准库",
+        icon: "fa-brands fa-golang",
+        prefix: "std/",
+        children: [
+          { text: "I/O标准库", icon: "fa-brands fa-golang", link: "io" }
+        ],
+      }
+    ]
+  },
+  {
+    text: "Java",
+    prefix: "/java/",
+    icon:"fab fa-java",
+    children: [],
   },
   {
     text: "杂记",
@@ -31,19 +32,9 @@ export default navbar([
         text: "未整理",
         icon: "lightbulb",
         prefix: "unorder/",
-        children: ["linux", { text: "...", icon: "ellipsis", link: "" }],
-      },
-      {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        children: [ { text: "linux", icon: "fa-linux", link: "linux" }],
       },
     ],
   },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  "/home/",
 ]);
