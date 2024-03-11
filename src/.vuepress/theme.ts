@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://zarttic.github.io",
 
   author: {
     name: "Zarttic",
@@ -15,7 +15,7 @@ export default hopeTheme({
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
   repo: "zarttic/zarttic.github.io",
-
+  // 编辑导向的分支
   docsBranch: "master",
 
   docsDir: "src",
@@ -47,6 +47,13 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
+
+
+    
+    // // 自动生成目录
+    // autoCatalog: {
+    //   index: true
+    // },
     // 你应该自行生成自己的评论服务
     comment: {
       provider: "Giscus",
