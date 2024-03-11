@@ -49,7 +49,7 @@ export default hopeTheme({
   plugins: {
 
 
-    searchPro:true,
+    // searchPro:true,
     // 你应该自行生成自己的评论服务
     comment: {
       provider: "Giscus",
