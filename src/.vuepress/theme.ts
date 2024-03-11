@@ -111,8 +111,8 @@ export default hopeTheme({
       // gfm requires mathjax-full to provide tex support
       // gfm: true,
 
-      // 在启用之前安装 katex
-      // katex: true,
+      //在启用之前安装 katex
+      katex: true,
 
       // 在启用之前安装 mathjax-full
       // mathjax: true,
