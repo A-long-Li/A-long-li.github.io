@@ -16,6 +16,8 @@ export default hopeTheme({
 
   repo: "zarttic/zarttic.github.io",
 
+  docsBranch: "master",
+
   docsDir: "src",
 
   // 导航栏
