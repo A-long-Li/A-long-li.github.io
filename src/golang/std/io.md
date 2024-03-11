@@ -1,9 +1,9 @@
 ---
 title: I/O标准库
 icon: fab fa-golang
-order: 2
+order: 1
 tag:
-  - I/O
+  - 标准库
   - golang
 ---
 

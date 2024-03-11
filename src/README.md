@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://github.githubassets.com/assets/yolo-default-be0bbff04951.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
@@ -22,7 +22,7 @@ highlights:
 
   - header: 文档直达
     description: 点击即可直接进入文档
-    image: /assets/image/markdown.svg
+    image: /assets/image/book.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:

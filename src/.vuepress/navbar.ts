@@ -12,7 +12,9 @@ export default navbar([
         icon: "fa-brands fa-golang",
         prefix: "std/",
         children: [
-          { text: "I/O标准库", icon: "fa-brands fa-golang", link: "io" }
+          { text: "I/O标准库", icon: "fa-brands fa-golang", link: "io" },
+          { text: "Runtime标准库", icon: "fa-brands fa-golang", link: "runtime" },
+          { text: "Context标准库", icon: "fa-brands fa-golang", link: "context" },
         ],
       }
     ]
