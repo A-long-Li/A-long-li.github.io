@@ -1,6 +1,7 @@
 ---
 title: Linux 相关
 icon: fab fa-linux
+category: note
 tag:
   - linux
 ---

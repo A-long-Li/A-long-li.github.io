@@ -31,11 +31,11 @@ export default hopeTheme({
   displayFooter: true,
 
   // 加密配置
-  encrypt: {
-    config: {
-      "/notes/order/database.html": ["0418"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/notes/order/database.html": ["0418"],
+  //   },
+  // },
 
   // 多语言配置
   metaLocales: {
