@@ -1,6 +1,6 @@
 ---
-title: Linux 相关
-icon: fab fa-linux
+title: 未整理
+icon: fa-solid fa-boxes-packing
 tag:
-  - linux
+  - mess
 ---

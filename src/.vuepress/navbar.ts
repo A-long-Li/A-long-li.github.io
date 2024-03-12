@@ -34,7 +34,10 @@ export default navbar([
         text: "已整理",
         icon: "lightbulb",
         prefix: "order/",
-        children: [ { text: "linux", icon: "fab fa-linux", link: "linux" } ],
+        children: [ 
+          { text: "linux", icon: "fab fa-linux", link: "linux" },
+          { text: "数据库", icon: "fa-solid fa-database", link: "database" }
+       ],
       },
       {
         text: "未整理",
