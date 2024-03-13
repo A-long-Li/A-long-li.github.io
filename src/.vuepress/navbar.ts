@@ -43,7 +43,7 @@ export default navbar([
         text: "未整理",
         icon: "lightbulb",
         prefix: "unorder/",
-        children: [ { text: "linux", icon: "fab fa-linux", link: "linux" }],
+        children: [ { text: "linux", icon: "fab fa-linux", link: "mess" }],
       },
 
     ],
