@@ -19,6 +19,10 @@
     "vuepress-theme-hope": "2.0.0-rc.31"
   },
   "dependencies": {
+    "chart": "^0.1.2",
+    "chart.js": "^4.4.2",
+    "echarts": "^5.5.0",
+    "flowchart.ts": "^3.0.0",
     "katex": "^0.16.9"
   }
 }
