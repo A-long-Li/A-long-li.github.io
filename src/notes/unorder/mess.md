@@ -42,5 +42,5 @@ func Paginate(req *dto.PageDto) func(db *gorm.DB) *gorm.DB {
 @[code html{32}](./template1.html)
 ### 整理简历上的bitcask数据库
 - https://mp.weixin.qq.com/s/s8s6VtqwdyjthR6EtuhnUA
-- https://roseduan.github.io/p/go-%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AD%98%E5%82%A8%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%9
+- [Go 语言数据库/存储项目推荐](https://roseduan.github.io/p/go-%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AD%98%E5%82%A8%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/)
 
