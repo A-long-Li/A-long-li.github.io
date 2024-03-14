@@ -2,6 +2,7 @@
 title: Context标准库
 icon: fab fa-golang
 order: 3
+category: golang
 tag:
   - 标准库
   - golang

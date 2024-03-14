@@ -1,6 +1,7 @@
 ---
 title: I/O标准库
 icon: fab fa-golang
+category: golang
 order: 1
 tag:
   - 标准库

@@ -1,6 +1,7 @@
 ---
 title: 未整理
 icon: fa-solid fa-boxes-packing
+category: note
 tag:
   - mess
 ---

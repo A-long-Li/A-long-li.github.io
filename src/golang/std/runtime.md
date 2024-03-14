@@ -2,6 +2,7 @@
 title: Runtime标准库
 icon: fab fa-golang
 order: 2
+category: golang
 tag:
   - 标准库
   - golang

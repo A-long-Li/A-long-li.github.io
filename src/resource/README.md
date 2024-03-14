@@ -4,6 +4,7 @@ sidebar: false
 prev: false
 next: false
 comment: false
+category: resource
 # footer: false
 ---
 ### 图标
