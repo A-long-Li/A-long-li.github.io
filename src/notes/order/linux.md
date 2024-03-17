@@ -13,7 +13,7 @@ tag:
 4. 使用`pkill` 也会通过进程名来杀死进程，但是可以将信号发给指定用户(==踢某人下线==)，较于`killall`更为灵活 `pkill -9 [process_name]`。
 ::: code-tabs
 
-@tab kill
+@tab:active kill
 ```bash
 kill -9 id
 ```
@@ -21,7 +21,7 @@ kill -9 id
 ```bash
 killall -9 edge
 ```
-@tab:active pkill
+@tab pkill
 ```bash
 pkill -9 edge
 ```
