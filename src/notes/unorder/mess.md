@@ -79,8 +79,27 @@ ResNet论文提出了 residual结构（残差结构）来减轻退化问题，
 #### 迁移学习
 比如一个大网络里面参数特别多，我只有很少的数据，不足以训练整个网络，这样就会造成过拟合的现象。
 ### 复试自我介绍
+#### 中文
 尊敬的各位老师，下午好。非常有幸有机会能进入到本次复试环节，向各位老师请教和学习。
 我叫李亚军，来自江苏徐州，本科就读于苏州理工学院 软件工程专业，将于今年六月份毕业。
 下面我将从学习经历，校内实践，实习经历以及未来规划这四个方面来进行自我介绍。
 成绩 学习课程 奖学金
 首先。在学习方面，我已经完成了全部的专业课程学习。通过本科的学习经历，我掌握了计算机的基本原理，以及编程语言的使用方法。在大一那年顺利通过了四级和六级考试，并连续三年获得了人民奖学金。
+#### 英文
+Good morning , dear professors, it’s my great honor to have the
+opportunity to introduce myself here. My name is Liyajun, 21 years old. I come
+from Xuzhou, a beautiful and historical city of JiangSu Province. I am currently
+studying Software Engineering at Suzhou Institute of Technology. I will introduce myself from three aspects: my
+academic performance, my working experience, and my future plan.
+
+Firstly, during my college years, I worked hard and learnt a lot from the teachers
+and my fellow students. I have great interests in my major and I have acquired a
+lot of professional knowledge as well as practical skills.I have also earned scholarship for my academic performance and got prizes in many competitions. Additionally, I successfully passed both the CET-4 and CET-6 exams within the first year of my college education.
+
+Secondly, I have gained some working experiences. Last summer, I completed a
+two-month internship. During the internship, I have strengthened my theoretical
+knowledge in practice. I have also improved my communicative skills and sense
+of team-work. Besides, I’m a good learner and I’m an adaptable person. I think
+these qualities will be beneficial for my postgraduate study.
+
+Thirdly, concerning my future plans, after four years of study, I have discovered a deep fascination with Big Data technology. I aspire to delve into this field extensively. 
