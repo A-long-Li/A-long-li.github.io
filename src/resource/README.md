@@ -17,3 +17,4 @@ category: resource
 [简单设计](https://www.jiandan.link/app/home)
 
 [.9.png制作](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=160&name=example)
+[git badget](socialify.git.ci)
