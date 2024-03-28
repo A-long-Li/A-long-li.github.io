@@ -123,4 +123,17 @@ knowledge in practice. I have also improved my communicative skills and sense
 of team-work. Besides, I’m a good learner and I’m an adaptable person. I think
 these qualities will be beneficial for my postgraduate study.
 
-Thirdly, concerning my future plans, after four years of study, I have discovered a deep fascination with Big Data technology. I aspire to delve into this field extensively. 
+Thirdly, concerning my future plans, after four years of study, I have discovered a deep fascination with Big Data technology. I aspire to delve into this field extensively.
+### 英语问答
+#### 空闲时间
+When I have free time, I like to read code from open source projects, which may sound a bit strange, but reading neat and logical code makes my whole body and mind feel happy.
+#### 对当前专业的看法
+ Software engineering is an important field of computer science, involving the application of technologies similar to big data and artificial intelligence. Software engineering has penetrated into our daily lives.
+ #### 对ai的看法
+ At present, artificial intelligence is developing rapidly, and its application is related to all aspects of us. Just like ChatGPT has brought great convenience to our lives. In the future, ai will be used in various fields,such as medicine, education, and finance.
+ #### 对未来的规划
+ My future plan is to continue my study in computer, and I will focus on the application of artificial intelligence in software development. I hope to become an expert in this field.
+
+ (英语问答1)[https://blog.csdn.net/weixin_48785707/article/details/129667807]
+ (英语问答2)[https://www.sohu.com/a/378250304_120149035]
+ (英语问答3)[https://zhuanlan.zhihu.com/p/597709349?utm_id=0]
