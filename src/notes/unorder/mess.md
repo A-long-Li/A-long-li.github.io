@@ -134,6 +134,8 @@ When I have free time, I like to read code from open source projects, which may 
  #### 对未来的规划
  My future plan is to continue my study in computer, and I will focus on the application of artificial intelligence in software development. I hope to become an expert in this field.
 
- (英语问答1)[https://blog.csdn.net/weixin_48785707/article/details/129667807]
- (英语问答2)[https://www.sohu.com/a/378250304_120149035]
- (英语问答3)[https://zhuanlan.zhihu.com/p/597709349?utm_id=0]
+ [英语问答1](https://blog.csdn.net/weixin_48785707/article/details/129667807)
+
+ [英语问答2](https://www.sohu.com/a/378250304_120149035)
+ 
+ [英语问答3](https://zhuanlan.zhihu.com/p/597709349?utm_id=0)
