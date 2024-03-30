@@ -135,6 +135,7 @@ When I have free time, I like to read code from open source projects, which may 
  My future plan is to continue my study in the major of computer scinece, and I will focus on the application of artificial intelligence in software development. I hope to become an expert in this field.
  #### 介绍专业
  My major is software engineering. Software engineering is based on computer science and technology which studies the use of engineering methods to construct and maintain effective, practical and high-quality software. It involves programming language, data structure, operating system and so on. Generally speaking, software engineering is a major related to software development.
+ 
 #### 毕业设计
 My graduation project is to use neural networks to classify animals. ResNet network model was used to train the data. This model can accurately classify animals. Finally, I created an app to showcase the model's effects.
                         
