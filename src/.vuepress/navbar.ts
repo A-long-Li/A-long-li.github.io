@@ -43,7 +43,7 @@ export default navbar([
         text: "未整理",
         icon: "lightbulb",
         prefix: "unorder/",
-        children: [ { text: "未整理的文档", icon: "fa-solid fa-bookmark", link: "mess" },{ text: "数据库", icon: "fa-solid fa-database", link: "database" },{ text: "Bitcask", icon: "fa-solid fa-database", link: "bitcask" }],
+        children: [ { text: "未整理的文档", icon: "fa-solid fa-bookmark", link: "mess" }],
       },
 
     ],
