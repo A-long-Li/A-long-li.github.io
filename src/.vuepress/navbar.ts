@@ -16,7 +16,29 @@ export default navbar([
           { text: "Runtime标准库", icon: "fa-brands fa-golang", link: "runtime" },
           { text: "Context标准库", icon: "fa-brands fa-golang", link: "context" },
         ],
-      }
+      },
+      {
+        text: "设计模式",
+        icon: "fa-brands fa-golang",
+        prefix: "design/",
+        children: [
+          { text: "创建型模式", icon: "fa-brands fa-golang", link: "creational" },
+        ],
+      },
+      {
+        text: "Gin",
+        icon: "fa-brands fa-golang",
+        prefix: "gin/",
+        children: [
+          { text: "认识gin", icon: "fa-brands fa-golang", link: "01" },
+          { text: "路由", icon: "fa-brands fa-golang", link: "02" },
+          { text: "请求参数", icon: "fa-brands fa-golang", link: "03" },
+          { text: "响应", icon: "fa-brands fa-golang", link: "04" },
+          { text: "模板渲染", icon: "fa-brands fa-golang", link: "05" },
+          { text: "会话", icon: "fa-brands fa-golang", link: "06" },
+          { text: "中间件", icon: "fa-brands fa-golang", link: "07" },
+        ],
+      },
     ]
   },
   {
