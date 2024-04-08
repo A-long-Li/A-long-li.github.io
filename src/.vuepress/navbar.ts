@@ -39,6 +39,18 @@ export default navbar([
           { text: "中间件", icon: "fa-brands fa-golang", link: "07" },
         ],
       },
+      {
+        text: "Gorm",
+        icon: "fa-brands fa-golang",
+        prefix: "gorm/",
+        children: [
+          { text: "快速入门", icon: "fa-brands fa-golang", link: "01" },
+          { text: "模型定义", icon: "fa-brands fa-golang", link: "02" },
+          { text: "增删改查", icon: "fa-brands fa-golang", link: "03" },
+          { text: "事务和Hook", icon: "fa-brands fa-golang", link: "04" },
+          { text: "高级查询", icon: "fa-brands fa-golang", link: "05" },
+        ],
+      },
     ]
   },
   {
