@@ -26,29 +26,19 @@ export default navbar([
         ],
       },
       {
-        text: "Gin",
+        text: "Web框架",
         icon: "fa-brands fa-golang",
         prefix: "gin/",
         children: [
-          { text: "认识gin", icon: "fa-brands fa-golang", link: "01" },
-          { text: "路由", icon: "fa-brands fa-golang", link: "02" },
-          { text: "请求参数", icon: "fa-brands fa-golang", link: "03" },
-          { text: "响应", icon: "fa-brands fa-golang", link: "04" },
-          { text: "模板渲染", icon: "fa-brands fa-golang", link: "05" },
-          { text: "会话", icon: "fa-brands fa-golang", link: "06" },
-          { text: "中间件", icon: "fa-brands fa-golang", link: "07" },
+          { text: "Gin", icon: "fa-brands fa-golang", link: "" ,activeMatch:"^/gin/$"},
         ],
       },
       {
-        text: "Gorm",
+        text: "orm库",
         icon: "fa-brands fa-golang",
         prefix: "gorm/",
         children: [
-          { text: "快速入门", icon: "fa-brands fa-golang", link: "01" },
-          { text: "模型定义", icon: "fa-brands fa-golang", link: "02" },
-          { text: "增删改查", icon: "fa-brands fa-golang", link: "03" },
-          { text: "事务和Hook", icon: "fa-brands fa-golang", link: "04" },
-          { text: "高级查询", icon: "fa-brands fa-golang", link: "05" },
+          { text: "Gorm", icon: "fa-brands fa-golang", link: "" ,activeMatch:"^/gorm/$"},
         ],
       },
     ]
