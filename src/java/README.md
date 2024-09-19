@@ -41,6 +41,11 @@ layout: Slide
 
 其中包含了 3 个一级指标和16 个二级指标。
 
+
+--
+
+## 指标
+
 ![zhibiao](/assets/image/zhibiao.png)
 
 --
